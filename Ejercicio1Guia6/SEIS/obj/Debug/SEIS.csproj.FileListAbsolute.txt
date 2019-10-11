@@ -1,0 +1,7 @@
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\bin\Debug\SEIS.exe.config
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\bin\Debug\SEIS.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\bin\Debug\SEIS.pdb
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\obj\Debug\SEIS.csprojAssemblyReference.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\obj\Debug\SEIS.csproj.CoreCompileInputs.cache
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\obj\Debug\SEIS.exe
+C:\Users\luisa\source\repos\Ejercicio1Guia6\SEIS\obj\Debug\SEIS.pdb
